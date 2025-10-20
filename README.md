@@ -1,2 +1,2 @@
-# mi-primer-repo
-Repositorio de Informatica 1 para realizar practicas
+i
+Vamos a agregar la primera version localmente
